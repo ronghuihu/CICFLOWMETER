@@ -1,0 +1,5 @@
+2018-11-22 08:50:23 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input F:\input_data
+2018-11-22 08:50:25 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output F:\output_data
+2018-11-22 08:50:28 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2018-11-22 08:50:32 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2018-11-22 08:50:32 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files

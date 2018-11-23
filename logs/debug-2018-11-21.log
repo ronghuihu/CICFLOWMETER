@@ -1,0 +1,21 @@
+2018-11-21 16:49:26 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: no jnetpcap in java.library.path
+2018-11-21 16:49:26 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: no jnetpcap in java.library.path
+2018-11-21 16:49:41 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input F:\input_data
+2018-11-21 16:49:46 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output F:\output_data
+2018-11-21 16:49:47 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2018-11-21 16:49:54 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2018-11-21 16:49:55 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2018-11-21 16:49:56 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2018-11-21 16:49:57 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2018-11-21 16:49:57 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2018-11-21 16:49:57 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2018-11-21 16:49:57 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2018-11-21 16:49:58 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2018-11-21 16:49:58 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2018-11-21 16:49:58 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2018-11-21 17:00:47 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: no jnetpcap in java.library.path
+2018-11-21 17:00:47 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: no jnetpcap in java.library.path
+2018-11-21 17:01:06 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input F:\input_data
+2018-11-21 17:01:10 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output F:\output_data
+2018-11-21 17:01:12 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2018-11-21 17:01:20 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
